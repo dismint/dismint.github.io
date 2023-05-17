@@ -1,0 +1,18 @@
+@import "./color_schemes/dark";
+
+$body-background-color: $back-color;
+$body-heading-color: $text-color;
+$body-text-color: $text-color; // check this one
+$link-color: $acnt-color;
+$nav-child-link-color: $acnt-color;
+$sidebar-color: $back-color;
+$base-button-color: $prim-color;
+$btn-primary-color: $prim-color;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $back-color;
+$search-background-color: $back-color;
+$search-result-preview-color: $acnt-color;
+$border-color: $back-color;
+
+$code-background-color: #282828;
+
