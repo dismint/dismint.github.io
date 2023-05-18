@@ -6,7 +6,7 @@ parent: 61800
 
 # Reliability
 
-For example, suppose we have the code as follows
+For example, suppose we have the code as followss
 ```python
 def reliable(var):
   var += 10
